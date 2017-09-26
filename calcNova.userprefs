@@ -1,16 +1,5 @@
 ﻿<Properties StartupConfiguration="{E7DB064B-986A-4014-90EA-EC8332248A43}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="IRRF.SPA/Startup.cs">
-    <Files>
-      <File FileName="IRRF.SPA/ClientApp/app/components/home/home.component.ts" Line="22" Column="2" />
-      <File FileName="IRRF.SPA/ClientApp/app/components/home/home.component.html" Line="12" Column="125" />
-      <File FileName="IRRF.SPA/ClientApp/app/app.module.shared.ts" Line="26" Column="28" />
-      <File FileName="IRRF.Domain.Tests/IRRFTeste.cs" Line="20" Column="41" />
-      <File FileName="IRRF.Domain/Entities/IRRF.cs" Line="15" Column="36" />
-      <File FileName="calcNova/Controllers/IRRFController.cs" Line="24" Column="1" />
-      <File FileName="IRRF.Domain/Services/IRRFService.cs" Line="11" Column="1" />
-      <File FileName="IRRF.Domain/Entities/Salario.cs" Line="14" Column="31" />
-      <File FileName="IRRF.SPA/Startup.cs" Line="36" Column="41" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
@@ -22,11 +11,13 @@
               <Node name="ClientApp" expanded="True">
                 <Node name="app" expanded="True">
                   <Node name="components" expanded="True">
-                    <Node name="home" expanded="True" />
+                    <Node name="home" expanded="True">
+                      <Node name="home.component.ts" selected="True" />
+                    </Node>
                   </Node>
                 </Node>
               </Node>
-              <Node name="Startup.cs" selected="True" />
+              <Node name="wwwroot" expanded="True" />
             </Node>
           </Node>
         </State>
