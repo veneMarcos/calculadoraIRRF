@@ -1,0 +1,12 @@
+/Users/venemarcos/Documents/projects/estudos/calcNova/calcNova/obj/Debug/netcoreapp2.0/calcNova.csprojResolveAssemblyReference.cache
+/Users/venemarcos/Documents/projects/estudos/calcNova/calcNova/obj/Debug/netcoreapp2.0/calcNova.csproj.CoreCompileInputs.cache
+/Users/venemarcos/Documents/projects/estudos/calcNova/calcNova/obj/Debug/netcoreapp2.0/calcNova.AssemblyInfoInputs.cache
+/Users/venemarcos/Documents/projects/estudos/calcNova/calcNova/obj/Debug/netcoreapp2.0/calcNova.AssemblyInfo.cs
+/Users/venemarcos/Documents/projects/estudos/calcNova/calcNova/bin/Debug/netcoreapp2.0/libe_sqlite3.dylib
+/Users/venemarcos/Documents/projects/estudos/calcNova/calcNova/bin/Debug/netcoreapp2.0/calcNova.deps.json
+/Users/venemarcos/Documents/projects/estudos/calcNova/calcNova/bin/Debug/netcoreapp2.0/calcNova.runtimeconfig.json
+/Users/venemarcos/Documents/projects/estudos/calcNova/calcNova/bin/Debug/netcoreapp2.0/calcNova.runtimeconfig.dev.json
+/Users/venemarcos/Documents/projects/estudos/calcNova/calcNova/bin/Debug/netcoreapp2.0/calcNova.dll
+/Users/venemarcos/Documents/projects/estudos/calcNova/calcNova/bin/Debug/netcoreapp2.0/calcNova.pdb
+/Users/venemarcos/Documents/projects/estudos/calcNova/calcNova/obj/Debug/netcoreapp2.0/calcNova.dll
+/Users/venemarcos/Documents/projects/estudos/calcNova/calcNova/obj/Debug/netcoreapp2.0/calcNova.pdb

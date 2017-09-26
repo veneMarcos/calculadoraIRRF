@@ -1,0 +1,14 @@
+/Users/venemarcos/Documents/projects/estudos/calcNova/calcNova/bin/Debug/netcoreapp2.0/libe_sqlite3.dylib
+/Users/venemarcos/Documents/projects/estudos/calcNova/calcNova/bin/Debug/netcoreapp2.0/IRRF.Service.deps.json
+/Users/venemarcos/Documents/projects/estudos/calcNova/calcNova/bin/Debug/netcoreapp2.0/IRRF.Service.runtimeconfig.json
+/Users/venemarcos/Documents/projects/estudos/calcNova/calcNova/bin/Debug/netcoreapp2.0/IRRF.Service.runtimeconfig.dev.json
+/Users/venemarcos/Documents/projects/estudos/calcNova/calcNova/bin/Debug/netcoreapp2.0/IRRF.Service.dll
+/Users/venemarcos/Documents/projects/estudos/calcNova/calcNova/bin/Debug/netcoreapp2.0/IRRF.Service.pdb
+/Users/venemarcos/Documents/projects/estudos/calcNova/calcNova/obj/Debug/netcoreapp2.0/IRRF.Service.csprojResolveAssemblyReference.cache
+/Users/venemarcos/Documents/projects/estudos/calcNova/calcNova/obj/Debug/netcoreapp2.0/IRRF.Service.csproj.CoreCompileInputs.cache
+/Users/venemarcos/Documents/projects/estudos/calcNova/calcNova/obj/Debug/netcoreapp2.0/IRRF.Service.AssemblyInfoInputs.cache
+/Users/venemarcos/Documents/projects/estudos/calcNova/calcNova/obj/Debug/netcoreapp2.0/IRRF.Service.AssemblyInfo.cs
+/Users/venemarcos/Documents/projects/estudos/calcNova/calcNova/obj/Debug/netcoreapp2.0/IRRF.Service.dll
+/Users/venemarcos/Documents/projects/estudos/calcNova/calcNova/obj/Debug/netcoreapp2.0/IRRF.Service.pdb
+/Users/venemarcos/Documents/projects/estudos/calcNova/calcNova/bin/Debug/netcoreapp2.0/IRRF.Domain.dll
+/Users/venemarcos/Documents/projects/estudos/calcNova/calcNova/bin/Debug/netcoreapp2.0/IRRF.Domain.pdb

@@ -1,0 +1,16 @@
+/Users/venemarcos/Documents/projects/estudos/calcNova/IRRF.Domain.Tests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/venemarcos/Documents/projects/estudos/calcNova/IRRF.Domain.Tests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/venemarcos/Documents/projects/estudos/calcNova/IRRF.Domain.Tests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/venemarcos/Documents/projects/estudos/calcNova/IRRF.Domain.Tests/bin/Debug/netcoreapp2.0/IRRF.Domain.Tests.deps.json
+/Users/venemarcos/Documents/projects/estudos/calcNova/IRRF.Domain.Tests/bin/Debug/netcoreapp2.0/IRRF.Domain.Tests.runtimeconfig.json
+/Users/venemarcos/Documents/projects/estudos/calcNova/IRRF.Domain.Tests/bin/Debug/netcoreapp2.0/IRRF.Domain.Tests.runtimeconfig.dev.json
+/Users/venemarcos/Documents/projects/estudos/calcNova/IRRF.Domain.Tests/bin/Debug/netcoreapp2.0/IRRF.Domain.Tests.dll
+/Users/venemarcos/Documents/projects/estudos/calcNova/IRRF.Domain.Tests/bin/Debug/netcoreapp2.0/IRRF.Domain.Tests.pdb
+/Users/venemarcos/Documents/projects/estudos/calcNova/IRRF.Domain.Tests/bin/Debug/netcoreapp2.0/IRRF.Domain.dll
+/Users/venemarcos/Documents/projects/estudos/calcNova/IRRF.Domain.Tests/bin/Debug/netcoreapp2.0/IRRF.Domain.pdb
+/Users/venemarcos/Documents/projects/estudos/calcNova/IRRF.Domain.Tests/obj/Debug/netcoreapp2.0/IRRF.Domain.Tests.csprojResolveAssemblyReference.cache
+/Users/venemarcos/Documents/projects/estudos/calcNova/IRRF.Domain.Tests/obj/Debug/netcoreapp2.0/IRRF.Domain.Tests.csproj.CoreCompileInputs.cache
+/Users/venemarcos/Documents/projects/estudos/calcNova/IRRF.Domain.Tests/obj/Debug/netcoreapp2.0/IRRF.Domain.Tests.AssemblyInfoInputs.cache
+/Users/venemarcos/Documents/projects/estudos/calcNova/IRRF.Domain.Tests/obj/Debug/netcoreapp2.0/IRRF.Domain.Tests.AssemblyInfo.cs
+/Users/venemarcos/Documents/projects/estudos/calcNova/IRRF.Domain.Tests/obj/Debug/netcoreapp2.0/IRRF.Domain.Tests.dll
+/Users/venemarcos/Documents/projects/estudos/calcNova/IRRF.Domain.Tests/obj/Debug/netcoreapp2.0/IRRF.Domain.Tests.pdb

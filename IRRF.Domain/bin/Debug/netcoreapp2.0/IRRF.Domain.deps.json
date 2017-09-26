@@ -1,0 +1,211 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "16a06d7eff76d379a1d387d7272146608edf147b"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "IRRF.Domain/1.0.0": {
+        "dependencies": {
+          "FluentValidator": "1.0.5",
+          "System.Linq": "4.3.0"
+        },
+        "runtime": {
+          "IRRF.Domain.dll": {}
+        }
+      },
+      "FluentValidator/1.0.5": {
+        "runtime": {
+          "lib/net461/FluentValidator.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Targets/1.1.0": {},
+      "System.Collections/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.Runtime": "4.3.0"
+        }
+      },
+      "System.Diagnostics.Debug/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.Runtime": "4.3.0"
+        }
+      },
+      "System.Globalization/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.Runtime": "4.3.0"
+        }
+      },
+      "System.IO/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.Runtime": "4.3.0",
+          "System.Text.Encoding": "4.3.0",
+          "System.Threading.Tasks": "4.3.0"
+        }
+      },
+      "System.Linq/4.3.0": {
+        "dependencies": {
+          "System.Collections": "4.3.0",
+          "System.Diagnostics.Debug": "4.3.0",
+          "System.Resources.ResourceManager": "4.3.0",
+          "System.Runtime": "4.3.0",
+          "System.Runtime.Extensions": "4.3.0"
+        }
+      },
+      "System.Reflection/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.IO": "4.3.0",
+          "System.Reflection.Primitives": "4.3.0",
+          "System.Runtime": "4.3.0"
+        }
+      },
+      "System.Reflection.Primitives/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.Runtime": "4.3.0"
+        }
+      },
+      "System.Resources.ResourceManager/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.Globalization": "4.3.0",
+          "System.Reflection": "4.3.0",
+          "System.Runtime": "4.3.0"
+        }
+      },
+      "System.Runtime/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Targets": "1.1.0"
+        }
+      },
+      "System.Runtime.Extensions/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.Runtime": "4.3.0"
+        }
+      },
+      "System.Text.Encoding/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.Runtime": "4.3.0"
+        }
+      },
+      "System.Threading.Tasks/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.Runtime": "4.3.0"
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IRRF.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FluentValidator/1.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mfmqRwpNOeb/CHJ9JdU+c9UtlyX12YrnwNSGlaZu2GAmQv1tnVtGbt855ZOttB+ROeapiYgzHFc9d2Q6PT46gg==",
+      "path": "fluentvalidator/1.0.5",
+      "hashPath": "fluentvalidator.1.0.5.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Targets/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-x9tv9kXpNA399tMJkwSg4yDijrg+pOr6pRy7mvH+nhYkVsIEBQKDUlRZhOW4VVHf/zAREptmat2SIeXxAL6WMQ==",
+      "path": "microsoft.netcore.targets/1.1.0",
+      "hashPath": "microsoft.netcore.targets.1.1.0.nupkg.sha512"
+    },
+    "System.Collections/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xNo6uY8NdGnYREjOuHT5YCu0ff3EbHx5LBrDXhgFa4dPILE5oPCrifjLGfnwB1JDKL8PC5jRHRa6XyFkK1k9xQ==",
+      "path": "system.collections/4.3.0",
+      "hashPath": "system.collections.4.3.0.nupkg.sha512"
+    },
+    "System.Diagnostics.Debug/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ihcBJUZLelCNAnG5Smi1u0EQunqCmgK7OmD8+9pBPqwEiFa3j7zq4REqRWJMBKzxDAsGYVI1m/q8XmCXhDPuVQ==",
+      "path": "system.diagnostics.debug/4.3.0",
+      "hashPath": "system.diagnostics.debug.4.3.0.nupkg.sha512"
+    },
+    "System.Globalization/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yhdKmH/bvjYOPqifNxplQJJJbmQ/N7k4iHBzSGaKQxN5iyIlqIg6xaqmNfOlPxeql3gwbwo/+DGLuf0raNQKUw==",
+      "path": "system.globalization/4.3.0",
+      "hashPath": "system.globalization.4.3.0.nupkg.sha512"
+    },
+    "System.IO/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+tzN9GSfq7ZxvsdIa+hvpwgbnlfuU5rZe7J5SkKZzhtjTo46wgmWWwbuBsVNJmC9sv9taXeT+V+Ys1PEZ4DV9A==",
+      "path": "system.io/4.3.0",
+      "hashPath": "system.io.4.3.0.nupkg.sha512"
+    },
+    "System.Linq/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WMqBiyc5RUXQsrGO9acV1LksN/hfyWiIiU2BICt9kK0lTNakGSVNEDjFdzgwqz+EeTQ3Cd4qOqsGwKhV3mIFRg==",
+      "path": "system.linq/4.3.0",
+      "hashPath": "system.linq.4.3.0.nupkg.sha512"
+    },
+    "System.Reflection/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Hy7uh99r4hc+Lxuhgpn9yea7v1GB/y8AjakoF6Qm6vszvIA2W1BkhJ1FT+qA9Af6Wz9EsZIz4/uI3/b6HlzHrQ==",
+      "path": "system.reflection/4.3.0",
+      "hashPath": "system.reflection.4.3.0.nupkg.sha512"
+    },
+    "System.Reflection.Primitives/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vUkhP9W2XhF4kZDzja99UJ77aNTbCLwLfkAxoNEWHuPN8P5Kfrh9rWkUjeh4zULcanllEgr5xMyijgC3jYi2bA==",
+      "path": "system.reflection.primitives/4.3.0",
+      "hashPath": "system.reflection.primitives.4.3.0.nupkg.sha512"
+    },
+    "System.Resources.ResourceManager/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTfs+ogMtNwLYJRL3EOaup3BKL1clJRaylO/beth6jiLg8PlclrHHZop7x9lszwoC9geKQDkFO92REV/aVRw6A==",
+      "path": "system.resources.resourcemanager/4.3.0",
+      "hashPath": "system.resources.resourcemanager.4.3.0.nupkg.sha512"
+    },
+    "System.Runtime/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JRTO8JZo0m1hdD4HikLq/ilsCVObgMphCUexW0OI+NsRaAeKwdiM7gko+itLngFseitvYTdsuOuXaQZGoWL92g==",
+      "path": "system.runtime/4.3.0",
+      "hashPath": "system.runtime.4.3.0.nupkg.sha512"
+    },
+    "System.Runtime.Extensions/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hi4NkGlHGb/UTYpgT0Y6Q9puBDfBx+/faqR8HHnzAoqw8aVa0pNVFZR9x17xh79XuVE1cb9pTzqEE/bgWSmqUg==",
+      "path": "system.runtime.extensions/4.3.0",
+      "hashPath": "system.runtime.extensions.4.3.0.nupkg.sha512"
+    },
+    "System.Text.Encoding/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-znm/qBFlRAa32jGzLkiq+sruoD6L2jV1Beh3bQv4nVSZHlLCXxIzhTB1bsNoWNqfLxKWSo5aicAhRdSYmiDhxw==",
+      "path": "system.text.encoding/4.3.0",
+      "hashPath": "system.text.encoding.4.3.0.nupkg.sha512"
+    },
+    "System.Threading.Tasks/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Mv2s5DHiPN60OJih/EPrQfAF5UwE4COvOdePzsCNPqSVSklie21T+eh+T3DYdZ7Y91+gRyTbxi21GOUq6PCXoQ==",
+      "path": "system.threading.tasks/4.3.0",
+      "hashPath": "system.threading.tasks.4.3.0.nupkg.sha512"
+    }
+  }
+}

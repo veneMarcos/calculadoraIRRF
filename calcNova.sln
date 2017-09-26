@@ -1,0 +1,35 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IRRF.API", "calcNova\IRRF.API.csproj", "{A88DD9FE-81D7-4A95-9EC0-8A5EE00A19B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IRRF.Domain", "IRRF.Domain\IRRF.Domain.csproj", "{D060A986-C450-4E04-AEDB-787EB93BC3A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IRRF.Domain.Tests", "IRRF.Domain.Tests\IRRF.Domain.Tests.csproj", "{B033A0CD-F5D5-47AB-9446-BFF1C57AF24D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IRRF.SPA", "IRRF.SPA\IRRF.SPA.csproj", "{E7DB064B-986A-4014-90EA-EC8332248A43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A88DD9FE-81D7-4A95-9EC0-8A5EE00A19B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A88DD9FE-81D7-4A95-9EC0-8A5EE00A19B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A88DD9FE-81D7-4A95-9EC0-8A5EE00A19B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A88DD9FE-81D7-4A95-9EC0-8A5EE00A19B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D060A986-C450-4E04-AEDB-787EB93BC3A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D060A986-C450-4E04-AEDB-787EB93BC3A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D060A986-C450-4E04-AEDB-787EB93BC3A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D060A986-C450-4E04-AEDB-787EB93BC3A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B033A0CD-F5D5-47AB-9446-BFF1C57AF24D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B033A0CD-F5D5-47AB-9446-BFF1C57AF24D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B033A0CD-F5D5-47AB-9446-BFF1C57AF24D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B033A0CD-F5D5-47AB-9446-BFF1C57AF24D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7DB064B-986A-4014-90EA-EC8332248A43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7DB064B-986A-4014-90EA-EC8332248A43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7DB064B-986A-4014-90EA-EC8332248A43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7DB064B-986A-4014-90EA-EC8332248A43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

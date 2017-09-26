@@ -1,0 +1,13 @@
+/Users/venemarcos/Documents/projects/estudos/calcNova/calcNova/bin/Debug/netcoreapp2.0/IRRF.API.deps.json
+/Users/venemarcos/Documents/projects/estudos/calcNova/calcNova/bin/Debug/netcoreapp2.0/IRRF.API.runtimeconfig.json
+/Users/venemarcos/Documents/projects/estudos/calcNova/calcNova/bin/Debug/netcoreapp2.0/IRRF.API.runtimeconfig.dev.json
+/Users/venemarcos/Documents/projects/estudos/calcNova/calcNova/bin/Debug/netcoreapp2.0/IRRF.API.dll
+/Users/venemarcos/Documents/projects/estudos/calcNova/calcNova/bin/Debug/netcoreapp2.0/IRRF.API.pdb
+/Users/venemarcos/Documents/projects/estudos/calcNova/calcNova/bin/Debug/netcoreapp2.0/IRRF.Domain.dll
+/Users/venemarcos/Documents/projects/estudos/calcNova/calcNova/bin/Debug/netcoreapp2.0/IRRF.Domain.pdb
+/Users/venemarcos/Documents/projects/estudos/calcNova/calcNova/obj/Debug/netcoreapp2.0/IRRF.API.csprojResolveAssemblyReference.cache
+/Users/venemarcos/Documents/projects/estudos/calcNova/calcNova/obj/Debug/netcoreapp2.0/IRRF.API.csproj.CoreCompileInputs.cache
+/Users/venemarcos/Documents/projects/estudos/calcNova/calcNova/obj/Debug/netcoreapp2.0/IRRF.API.AssemblyInfoInputs.cache
+/Users/venemarcos/Documents/projects/estudos/calcNova/calcNova/obj/Debug/netcoreapp2.0/IRRF.API.AssemblyInfo.cs
+/Users/venemarcos/Documents/projects/estudos/calcNova/calcNova/obj/Debug/netcoreapp2.0/IRRF.API.dll
+/Users/venemarcos/Documents/projects/estudos/calcNova/calcNova/obj/Debug/netcoreapp2.0/IRRF.API.pdb

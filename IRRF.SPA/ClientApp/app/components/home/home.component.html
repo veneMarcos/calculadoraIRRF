@@ -1,0 +1,12 @@
+<h1>Calculadora</h1>
+
+<br />
+
+<label>Salário</label>
+
+<input currencyMask [(ngModel)]="vlrSalario" type="text" [options]="{ prefix: 'R$ ', thousands: '.', decimal: ',' }" />
+
+<button title="Calcular" (click)="calcular()">Calcular</button>
+<br/>
+<br />
+<p>O imposto é de <input type="text" currencyMask [(ngModel)]="vlrImposto" [options]="{ prefix: 'R$ ', thousands: '.', decimal: ',' }"/></p>

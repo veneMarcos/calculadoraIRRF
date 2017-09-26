@@ -1,0 +1,9 @@
+/Users/venemarcos/Documents/projects/estudos/calcNova/IRRF.Domain/bin/Debug/netcoreapp2.0/IRRF.Domain.deps.json
+/Users/venemarcos/Documents/projects/estudos/calcNova/IRRF.Domain/bin/Debug/netcoreapp2.0/IRRF.Domain.dll
+/Users/venemarcos/Documents/projects/estudos/calcNova/IRRF.Domain/bin/Debug/netcoreapp2.0/IRRF.Domain.pdb
+/Users/venemarcos/Documents/projects/estudos/calcNova/IRRF.Domain/obj/Debug/netcoreapp2.0/IRRF.Domain.csprojResolveAssemblyReference.cache
+/Users/venemarcos/Documents/projects/estudos/calcNova/IRRF.Domain/obj/Debug/netcoreapp2.0/IRRF.Domain.csproj.CoreCompileInputs.cache
+/Users/venemarcos/Documents/projects/estudos/calcNova/IRRF.Domain/obj/Debug/netcoreapp2.0/IRRF.Domain.AssemblyInfoInputs.cache
+/Users/venemarcos/Documents/projects/estudos/calcNova/IRRF.Domain/obj/Debug/netcoreapp2.0/IRRF.Domain.AssemblyInfo.cs
+/Users/venemarcos/Documents/projects/estudos/calcNova/IRRF.Domain/obj/Debug/netcoreapp2.0/IRRF.Domain.dll
+/Users/venemarcos/Documents/projects/estudos/calcNova/IRRF.Domain/obj/Debug/netcoreapp2.0/IRRF.Domain.pdb
